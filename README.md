@@ -1,5 +1,28 @@
-<img src="https://github.com/vinceliuice/matcha/blob/imgs/logo.png" alt="Logo" align="right" /> Matcha Gtk Theme
-======
+# endigma/matcha
+fork of https://github.com/vinceliuice/matcha
+
+two themes; search lights and desert lights
+
+color schemes shamelessly ripped from https://github.com/finnsjames/search-lights
+
+PR anything you want I'm not gonna maintain this beyond my needs
+
+does not:
+- properly support any of the real WMs matcha normally does
+- at least not intentionally
+
+you should:
+- probably rerender the assets for whatever dpi you use
+
+<hr>
+
+# ORIGINAL README
+
+<hr>
+
+<img src="https://github.com/vinceliuice/matcha/blob/imgs/logo.png" alt="Logo" align="right" /> 
+
+## Matcha Gtk Theme
 
 Matcha is a flat Design theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
