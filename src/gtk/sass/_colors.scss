@@ -84,6 +84,14 @@ $dark_sidebar_bg: #303b3e;
 $dark_sidebar_fg: if($variant == 'light' and $header == 'light', $text_color, mix($selected_bg_color, #cecece, 5%));
 $dark_sidebar_border: if($variant == 'light' and $header == 'light', darken($dark_sidebar_bg, 15%), darken($dark_sidebar_bg, 5%));
 
+@if $color=='desert-lights' {
+  $dark_sidebar_bg: #1C1C1C;
+}
+
+@if $color=='search-lights' {
+  $dark_sidebar_bg: #212733;
+}
+
 $osd_fg_color: $dark_sidebar_fg;
 $osd_bg_color: rgba($header_bg, 0.95);
 $osd_borders_color: if($variant == 'light', darken($osd_bg_color, 15%), darken($osd_bg_color, 4%));
