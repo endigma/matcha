@@ -64,7 +64,7 @@ $header_bg_backdrop: if($variant == 'dark', lighten($header_bg, 2%), lighten($he
 $header_border: if($variant == 'light', darken($header_bg, 7%), darken($header_bg, 4%));
 $header_fg: if($variant =='light', mix($selected_bg_color, #bdbdbd, 5%), $text_color);
 
-$dark_sidebar_bg: #303b3e;
+$dark_sidebar_bg: #1a1f28;
 @if $color=='desert-lights' { $dark_sidebar_bg: if($transparency == 'true', transparentize(#202020, 0.05), #202020); }
 @if $color=='search-lights' { $dark_sidebar_bg: if($transparency == 'true', transparentize(#30343e, 0.05), #30343e); }
 $dark_sidebar_fg: if($variant =='light', mix($selected_bg_color, #bdbdbd, 5%), $text_color);

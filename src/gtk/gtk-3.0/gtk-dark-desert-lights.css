@@ -6952,7 +6952,7 @@ widget > box.terminal-titlebar > button.image-button, widget > box.terminal-titl
 }
 
 list.tilix-session-sidebar {
-  background-image: image(#303b3e);
+  background-image: image(#1C1C1C);
 }
 
 list.tilix-session-sidebar button.tilix-sidebar-close-button {
@@ -9316,7 +9316,7 @@ MarlinViewWindow FMListView, MarlinViewWindow FMColumnView {
 
 treeview.view.sidebar {
   color: #cbcccd;
-  background-color: #303b3e;
+  background-color: #1C1C1C;
 }
 
 treeview.view.sidebar.source-list {
@@ -9764,7 +9764,7 @@ GtkListBox .h4 {
 
 filechooser paned > separator,
 .nautilus-window paned > separator {
-  background-image: linear-gradient(to bottom, #252d30, #252d30);
+  background-image: linear-gradient(to bottom, #101319, #101319);
 }
 
 filechooser.csd.background, filechooser placessidebar list,
@@ -9775,7 +9775,7 @@ filechooser.csd.background, filechooser placessidebar list,
 
 filechooser placessidebar.sidebar,
 .nautilus-window placessidebar.sidebar {
-  background-color: #303b3e;
+  background-color: #1C1C1C;
 }
 
 filechooser placessidebar.sidebar row.sidebar-row,
@@ -9895,7 +9895,7 @@ filechooser placessidebar.sidebar separator,
 
 filechooser.maximized placessidebar.sidebar,
 .nautilus-window.maximized placessidebar.sidebar {
-  background-color: #303b3e;
+  background-color: #1c1c1c;
 }
 
 filechooser actionbar {
@@ -9958,7 +9958,7 @@ filechooser actionbar label, filechooser actionbar combobox {
 }
 
 .gedit-side-panel-paned > separator {
-  background-image: linear-gradient(to bottom, #252d30, #252d30);
+  background-image: linear-gradient(to bottom, #101319, #101319);
 }
 
 .gedit-bottom-panel-paned > separator {
@@ -9966,11 +9966,11 @@ filechooser actionbar label, filechooser actionbar combobox {
 }
 
 .gedit-document-panel {
-  background-color: #303b3e;
+  background-color: #1C1C1C;
 }
 
 .maximized .gedit-document-panel {
-  background-color: #303b3e;
+  background-color: #1c1c1c;
 }
 
 .gedit-document-panel row {
@@ -10002,7 +10002,7 @@ filechooser actionbar label, filechooser actionbar combobox {
 
 filechooser placessidebar.sidebar scrollbar,
 .nautilus-window placessidebar.sidebar scrollbar {
-  border-color: #252d30;
+  border-color: #0f0f0f;
 }
 
 filechooser placessidebar.sidebar scrollbar.overlay-indicator:not(.dragging):not(.hovering) slider,
@@ -10033,7 +10033,7 @@ filechooser placessidebar.sidebar scrollbar slider:disabled,
 
 filechooser placessidebar.sidebar scrollbar trough,
 .nautilus-window placessidebar.sidebar scrollbar trough {
-  background-color: #252d30;
+  background-color: #0f0f0f;
 }
 
 @define-color theme_fg_color #DDD7CA;

@@ -6954,7 +6954,7 @@ widget > box.terminal-titlebar > button.image-button, widget > box.terminal-titl
 }
 
 list.tilix-session-sidebar {
-  background-image: image(#303b3e);
+  background-image: image(#1a1f28);
 }
 
 list.tilix-session-sidebar button.tilix-sidebar-close-button {
@@ -9319,7 +9319,7 @@ MarlinViewWindow FMListView, MarlinViewWindow FMColumnView {
 
 treeview.view.sidebar {
   color: #363636;
-  background-color: #303b3e;
+  background-color: #1a1f28;
 }
 
 treeview.view.sidebar.source-list {
@@ -9778,7 +9778,7 @@ filechooser.csd.background, filechooser placessidebar list,
 
 filechooser placessidebar.sidebar,
 .nautilus-window placessidebar.sidebar {
-  background-color: #303b3e;
+  background-color: #1a1f28;
 }
 
 filechooser placessidebar.sidebar row.sidebar-row,
@@ -9898,7 +9898,7 @@ filechooser placessidebar.sidebar separator,
 
 filechooser.maximized placessidebar.sidebar,
 .nautilus-window.maximized placessidebar.sidebar {
-  background-color: #303b3e;
+  background-color: #1a1f28;
 }
 
 filechooser actionbar {
@@ -9969,11 +9969,11 @@ filechooser actionbar label, filechooser actionbar combobox {
 }
 
 .gedit-document-panel {
-  background-color: #303b3e;
+  background-color: #1a1f28;
 }
 
 .maximized .gedit-document-panel {
-  background-color: #303b3e;
+  background-color: #1a1f28;
 }
 
 .gedit-document-panel row {

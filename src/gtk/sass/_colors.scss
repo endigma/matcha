@@ -80,7 +80,7 @@ $header_bg_backdrop: if($header == 'light', lighten($header_bg, 6%), lighten($he
 $header_border: if($header == 'light', darken($header_bg, 7%), darken($header_bg, 4%));
 $header_fg: if($header =='light', $fg_color, mix($selected_bg_color, #cecece, 5%));
 
-$dark_sidebar_bg: #303b3e;
+$dark_sidebar_bg: #1a1f28;
 $dark_sidebar_fg: if($variant == 'light' and $header == 'light', $text_color, mix($selected_bg_color, #cecece, 5%));
 $dark_sidebar_border: if($variant == 'light' and $header == 'light', darken($dark_sidebar_bg, 15%), darken($dark_sidebar_bg, 5%));
 

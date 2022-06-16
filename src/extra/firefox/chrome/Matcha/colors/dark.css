@@ -10,7 +10,7 @@
 		--gnome-selected-background: #2eb398;
 
 		/* Browser area before a page starts loading */
-		--gnome-browser-before-load-background: #303b3e;
+		--gnome-browser-before-load-background: #1a1f28;
 
 		/* Toolbars */
 		--gnome-toolbar-background: #1b2224;
@@ -20,8 +20,8 @@
 		--gnome-inactive-toolbar-border-color: #14191B;
 
 		/* Sidebar */
-		--gnome-sidebar-background: #303b3e;
-		--gnome-inactive-sidebar-background: #303b3e;
+		--gnome-sidebar-background: #1a1f28;
+		--gnome-inactive-sidebar-background: #1a1f28;
 
 		/* Popups */
 		--gnome-menu-background: #222b2e;
